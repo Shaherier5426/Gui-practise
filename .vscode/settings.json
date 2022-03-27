@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\NetBeans-13\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar",
+        "c:\\Users\\MD\\Downloads\\jaco-mp3-player-0.9.3.jar"
+    ]
+}
